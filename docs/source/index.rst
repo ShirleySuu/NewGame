@@ -20,3 +20,5 @@ Contents
 
    usage
    api
+   Help Center
+   Terms of Services
