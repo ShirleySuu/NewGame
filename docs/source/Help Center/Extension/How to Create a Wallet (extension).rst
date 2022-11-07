@@ -5,3 +5,4 @@ How do I create a new wallet
 -------
 
 2. Click
+------
