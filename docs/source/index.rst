@@ -16,8 +16,20 @@ how to :ref:`installation` the project.
 Contents
 --------
 
+Welcome to Portkey's documentation
+=========================================   
+
 .. toctree::
 
+   Introduction <introduction/introduction>
+
+.. toctree::
+   :caption: Help Center
+   :maxdepth: 3
+   App <Source/Help Center/App/index>
+   Extension <Source/Help Center/Extension/index>
+   
+.. toctree::
    usage
    api
    Help Center
