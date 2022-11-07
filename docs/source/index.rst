@@ -33,12 +33,12 @@ Welcome to Portkey's documentation
 
 .. toctree::
    :caption: Help Center
-   :maxdepth: 3
+   :maxdepth: 2
    App <Source/Help Center/App/index>
    Extension <Source/Help Center/Extension/index>
    
 .. toctree::
+   Help Center
    usage
    api
-   Help Center
    Terms of Services
