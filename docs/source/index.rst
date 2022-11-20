@@ -1,10 +1,10 @@
-Welcome to Lumache's documentation!
+Welcome to Portkey's documentation!
 ===================================
-.. toctree::
+toctree::
    :maxdepth: 2
    :caption: Getting Started
 
-   Development Environment<main_pages/Getting_started/development_environment>
+   Introduction<main_pages/Getting_started/Introduction>
    Smart Contract Development<main_pages/Getting_started/smart_contract_developmen
 
 **NewGame** (/lu'make/) is my library of things I love that range from tale as old as time to pirates of Caribbean, the list could be as long as a whole world.
