@@ -1,5 +1,11 @@
 Welcome to Lumache's documentation!
 ===================================
+.. toctree::
+   :maxdepth: 2
+   :caption: Getting Started
+
+   Development Environment<main_pages/Getting_started/development_environment>
+   Smart Contract Development<main_pages/Getting_started/smart_contract_developmen
 
 **NewGame** (/lu'make/) is my library of things I love that range from tale as old as time to pirates of Caribbean, the list could be as long as a whole world.
 if I type * here to make a word *italic* and *bold* 
