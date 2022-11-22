@@ -39,10 +39,17 @@ Welcome to Portkey's documentation
    :caption: Help Center
    :maxdepth: 2
    
-   App <Source/Help Center/App/index>
-   Extension <Source/Help Center/Extension/index>
+   App <Help-Center/App/How to >
+   Extension <Source/Help-Center/Extension/index>
+
+.. toctree::
+   :caption: main-pages
+   :maxdepth: 2
+   
+   introduction <main-pages/introduction>
+   Help Center <main-pages/Help-Center>
    
 .. toctree::
-   Help Center
+   Help-Center
    usage
    Terms of Services
