@@ -33,11 +33,12 @@ Welcome to Portkey's documentation
 
 .. toctree::
 
-   Introduction <introduction/introduction>
+   Introduction <Introduction/Introduction>
 
 .. toctree::
    :caption: Help Center
    :maxdepth: 2
+   
    App <Source/Help Center/App/index>
    Extension <Source/Help Center/Extension/index>
    
