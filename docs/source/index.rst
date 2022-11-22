@@ -3,9 +3,9 @@ Welcome to Portkey's documentation!
 .. toctree::
    :maxdepth: 1
 
-   Introduction <main_pages/Introduction/introduction>
+   Introduction <main_pages/introduction>
 
-**NewGame** (/lu'make/) is my library of things I love that range from tale as old as time to pirates of Caribbean, the list could be as long as a whole world.
+**NewGame** is my library of things I love that range from tale as old as time to pirates of Caribbean, the list could be as long as a whole world.
 if I type * here to make a word *italic* and *bold* 
 
 and
