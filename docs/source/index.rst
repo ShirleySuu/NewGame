@@ -32,14 +32,15 @@ Welcome to Portkey's documentation
 =========================================   
 
 .. toctree::
-
+   :maxdepth: 1
    Introduction <introduction/introduction>
 
 .. toctree::
-   :caption: Help Center
    :maxdepth: 2
-   App <Source/Help Center/App/index>
-   Extension <Source/Help Center/Extension/index>
+   :caption: Help Center
+   
+   App <Help Center/App/How to Create a Wallet (APP)>
+   Extension <Help Center/Extension/How to Create a Wallet (Extension)>
    
 .. toctree::
    Help Center
