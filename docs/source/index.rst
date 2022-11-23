@@ -34,6 +34,12 @@ Welcome to Portkey's documentation
    Help Center <main-pages/Help-Center>
    
 .. toctree::
+   :caption: Help Center
+   :maxdepth: 2
+
+   Extension <Help-Center/Extension/index>
+   
+.. toctree::
    Help-Center
    usage
    Terms of Services
