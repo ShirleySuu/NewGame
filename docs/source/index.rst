@@ -23,7 +23,7 @@ Welcome to Portkey's documentation
    :caption: Help Center
    :maxdepth: 2
    
-   App <Help-Center/App/How to Create a Wallet (App)>
+   App <Help-Center/App/>
    Extension <Help-Center/Extension/How to Create a Wallet (extension)>
 
 .. toctree::
