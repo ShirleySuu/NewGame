@@ -1,4 +1,4 @@
-How do I create a new wallet through Portkey Extension
+How do I create a new address through Portkey extension
 ====
 
 1. Install Portkey on Browser
